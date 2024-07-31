@@ -1,5 +1,7 @@
 # Bash Scripts
 
+<img src="https://raw.githubusercontent.com/Pradheon/bash-scripts/main/bash-script.png" />
+
 ## Description
 This repository serves as nexus for all bash scripts I create to help automate my workflow.
 
